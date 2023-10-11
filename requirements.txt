@@ -1,3 +1,0 @@
-ydata_profiling==23.2.1
-ipywidgets==8.1.1
-termcolor==2.3.0
